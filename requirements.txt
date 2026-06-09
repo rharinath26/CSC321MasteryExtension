@@ -1,0 +1,15 @@
+# Core deep learning framework
+torch>=1.12.0
+torchvision>=0.13.0
+
+# Numerical computing
+numpy<2.0
+
+# Visualization
+matplotlib>=3.5.0
+
+# Optional: For better plotting (if needed)
+seaborn>=0.11.0
+
+# Note: Install with: pip install -r requirements.txt
+# For NumPy compatibility: pip install "numpy<2.0"
